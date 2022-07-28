@@ -1,0 +1,32 @@
+.centerred {
+    text-align: center;
+}
+
+.redMessage {
+    color: darkred
+}
+
+.greenMessage {
+    color: darkgreen
+}
+
+.card {
+    margin-left: 5px;
+}
+
+.cardContainer {
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+html {
+    background-color: lightslategrey;
+}
+
+img {
+    height: 170px;
+    width: 120px;
+    cursor: pointer;
+}
